@@ -14,3 +14,11 @@ Create a program, in a language of your choice, to read the input of `in.txt`, a
 
 - `in.txt`: `1 34 2 54`
 - Output: `1 2 34 54`
+
+
+## Step 3 (Challenge)
+
+Create a branch and do the challenge again in a different language
+
+
+## Try to get the shortest code or the shortest run time in the club!
