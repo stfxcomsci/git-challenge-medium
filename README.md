@@ -12,5 +12,5 @@ Create a program, in a language of your choice, to read the input of `in.txt`, a
 
 ## Example
 
-`in.txt`: `1 34 2 54`
-Output: `1 2 34 54`
+- `in.txt`: `1 34 2 54`
+- Output: `1 2 34 54`
